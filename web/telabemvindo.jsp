@@ -1,4 +1,4 @@
-
+﻿
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
    "http://www.w3.org/TR/html4/loose.dtd">
@@ -18,7 +18,7 @@
         
        
         <div align="center"><h2> Bem-vindo, cadastre já e faça um teste   </h2>
-        <h2> da internet mais rápida da cidade!  </h2> </div>
+        <h2> da INTERNET mais rápida da cidade!  </h2> </div>
     
       <div align="center"> <img src="${pageContext.request.contextPath}/imagens/net.png" width="250" height="250" />
         </div>
